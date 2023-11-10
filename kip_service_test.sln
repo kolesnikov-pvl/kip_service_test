@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kip_service_test", "kip_service_test.csproj", "{12B21761-435A-44ED-AA6E-1069291A65E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B21761-435A-44ED-AA6E-1069291A65E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B21761-435A-44ED-AA6E-1069291A65E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B21761-435A-44ED-AA6E-1069291A65E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B21761-435A-44ED-AA6E-1069291A65E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED14739-EA6A-42AF-B08B-0234C44B8B78}
+	EndGlobalSection
+EndGlobal
